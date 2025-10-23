@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
         <div className="mt-8 border-t border-gray-200 dark:border-gray-700 pt-8">
           <p className="text-sm text-center text-gray-600 dark:text-gray-300">
-            © 2024 React Tailwind Assignment. All rights reserved.
+            © 2025 React Tailwind Assignment. All rights reserved.
           </p>
         </div>
       </div>

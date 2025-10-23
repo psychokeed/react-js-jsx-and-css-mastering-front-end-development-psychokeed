@@ -83,11 +83,10 @@ The application is deployed and can be accessed at: [https://your-deployed-url.c
 ![Light Mode Screenshot](./screenshots/light-mode.png)
 
 ### Dark Mode
-![Dark Mode Screenshot](./screenshots/dark-mode.png)
+![alt text](image.png)
 
 ### Mobile View
-![Mobile View Screenshot](./screenshots/mobile-view.png)
-
+![alt text](image-1.png)
 ## 📁 Project Structure
 
 ```
